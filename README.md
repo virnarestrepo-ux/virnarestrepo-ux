@@ -29,9 +29,17 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
   
- 
 </p>
-
+ <div>
+  <p>
+    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 <br>
 
 <h3 align="left">Languages y herramientas:</h3>
