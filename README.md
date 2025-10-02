@@ -55,7 +55,11 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" />  </a> </p>
+      width="40" height="40" /> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/> </a></p>
+
+<!-- STATS Y LENGUAJES MAS USADOS -->
+<div style="display:grid;align-items:center;justify-content:center">
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=andermendoza&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/> </a> </p>
 <br>
 
 <h3>Statistical Data :-</h3>
