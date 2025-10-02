@@ -30,7 +30,8 @@ Here are some ideas to get you started:
       alt="_._.adam._" height="30" width="40" /></a>
   
 </p>
- <div>
+
+<div>
   <p>
     <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
     </a>
   </p>
 </div>
-<br>
 
 <h3 align="left">Languages y herramientas:</h3>
 <p align= </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
