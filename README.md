@@ -1,8 +1,8 @@
-## Holo soy Virna Restrepo 👋
+
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
-
+## Holo soy Virna Restrepo 👋
 <!--
 **virnarestrepo-ux/virnarestrepo-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
