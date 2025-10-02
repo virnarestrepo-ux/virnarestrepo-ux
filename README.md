@@ -3,6 +3,8 @@
 </div>
 
 ## Holo soy Virna Restrepo 👋
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 <!--
 **virnarestrepo-ux/virnarestrepo-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,7 +33,7 @@ Here are some ideas to get you started:
   
 </p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
 
 
 <h3 align="left">Languages y herramientas:</h3>
