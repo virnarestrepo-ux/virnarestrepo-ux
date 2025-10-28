@@ -35,7 +35,7 @@ Here are some ideas to get you started:
       alt="_._.adam._" height="30" width="40" /></a>
   
 </p>
-[![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")]([https://www.facebook.com/AnushkaWijegoonawardana97](https://www.facebook.com/virna.restrepo))
+(https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")(https://www.facebook.com/virna.restrepo)
 
 <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
