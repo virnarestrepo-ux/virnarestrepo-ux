@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/virna-restrepo/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/virna-restrepo-95728748" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
