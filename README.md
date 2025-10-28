@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 </p>
 
 
-
+<a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="adam pithen wala" height="30" width="40" /></a>
 
 <h3 align="left">Languages y herramientas:</h3>
 <p align= </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
