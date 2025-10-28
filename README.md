@@ -27,19 +27,13 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/virna-restrepo-95728748" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
-      src="ttps://raw.githubusercontent.com/www.facebook.com/virna.restrepo/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
+
   <a href="https://www.instagram.com/virdisenoentodoarte" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
   
 </p>
-(https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")(https://www.facebook.com/virna.restrepo)
 
-<a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
 
 <h3 align="left">Languages y herramientas:</h3>
 <p align= </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
